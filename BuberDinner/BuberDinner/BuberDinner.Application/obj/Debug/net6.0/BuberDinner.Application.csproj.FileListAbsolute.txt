@@ -1,0 +1,15 @@
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.deps.json
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.dll
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\ref\BuberDinner.Application.dll
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.pdb
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.csproj.AssemblyReference.cache
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.AssemblyInfoInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.AssemblyInfo.cs
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.dll
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\ref\BuberDinner.Application.dll
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.pdb
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Domain.dll
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Domain.pdb
+D:\Sudhir_Resume\Sudhir_learn\BuberDinner\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.csproj.CopyComplete
